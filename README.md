@@ -1,2 +1,4 @@
-# stack-cpp-79
+# Stack Cpp 79
+
 A dynamic array stack push/pop implementation in C++.
+
